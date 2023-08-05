@@ -1,2 +1,3 @@
-# Translator_discord_bot
-Discord Bot for auto translate in selected channel
+Bot By 约 - Wick | Website : https://wickdev.xyz/
+
+#Translator Discord Bot
