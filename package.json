@@ -1,0 +1,14 @@
+{
+    "name": "discord-bot-translator",
+    "version": "1.0.0",
+    "description": "Discord bot that automatically translates messages in a specific channel",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^13.2.0",
+        "discord.js-collector": "^1.8.9",
+        "google-translate-api": "^2.3.0",
+        "google-translate-api-browser": "^3.0.1",
+        "sqlite": "^5.0.1",
+        "sqlite3": "^5.1.6"
+    }
+}
